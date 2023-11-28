@@ -12,5 +12,10 @@ You need to use the **Chrome extension**. According to [Microsoft](https://suppo
 
 Follow this guide to install the extension: https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/extension-sideloading
 
+### Opera
+You need to use the **Chrome extension**. According to [Opera](https://blogs.opera.com/tips-and-tricks/2021/10/using-addons-from-chrome-in-opera/) this should work.
+
+Follow this guide to install the extension: https://dev.opera.com/extensions/testing/
+
 ### Firefox
 Follow this guide to install the extension: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension#installing
