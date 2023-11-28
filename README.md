@@ -5,7 +5,12 @@ This repository contains the browser extension which is needed to install [the P
 
 ## How to install the extension
 ### Chrome
-Follow this guide: https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked
+Follow this guide to install the extension: https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked
+
+### Edge
+You need to use the **Chrome extension**. According to [Microsoft](https://support.microsoft.com/en-us/microsoft-edge/add-turn-off-or-remove-extensions-in-microsoft-edge-9c0ec68c-2fbc-2f2c-9ff0-bdc76f46b026) this should work.
+
+Follow this guide to install the extension: https://learn.microsoft.com/en-us/microsoft-edge/extensions-chromium/getting-started/extension-sideloading
 
 ### Firefox
-Follow this guide: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension#installing
+Follow this guide to install the extension: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension#installing
