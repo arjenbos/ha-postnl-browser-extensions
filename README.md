@@ -1,5 +1,7 @@
 # PostNL browser extensions
 
-This repository contains the browser extension which is needed to install the PostNL Home Assistant integration.
+This repository contains the browser extension which is needed to install [the PostNL Home Assistant integration](https://github.com/arjenbos/ha-postnl).
 
-More information can be found here: https://github.com/arjenbos/ha-postnl
+
+## Install
+Follow [this guide](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked)https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked.
