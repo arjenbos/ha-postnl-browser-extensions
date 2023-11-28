@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "PostNL oAuth rewriter",
+    "description": "Rewrites postnl:// to Home Assistant oAuth2 endpoint",
+    "version": "1.0.0",
+    "permissions": [
+      "webRequest",
+      "webRequestBlocking"
+    ],
+    "host_permissions": [
+      "*://*.postnl.nl/*"
+    ],
+    "background": {
+      "scripts": [
+        "service_worker.js"
+      ]
+    }
+  }
