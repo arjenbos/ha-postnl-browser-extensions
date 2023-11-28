@@ -4,4 +4,5 @@ This repository contains the browser extension which is needed to install [the P
 
 
 ## How to install the extension
-- Chrome: Follow [this guide](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked)https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked.
+### Chrome
+Follow [this guide](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked)https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked.
