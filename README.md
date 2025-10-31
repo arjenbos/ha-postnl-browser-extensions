@@ -18,9 +18,8 @@ You need to use the **Chrome extension**. According to [Opera](https://blogs.ope
 Follow this guide to install the extension: https://dev.opera.com/extensions/testing/
 
 ### Firefox
-1. Follow this guide to install the extension: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Your_first_WebExtension#installing
-2. Firefox disables required permissions by default. After installing the extension you need to follow these steps:
-   1. Go to `about:addons` (copy and paste this address in the address bar).
-   2. Click on `PostNL oAuth rewriter`.
-   3. Go to the `Permissions` tab.
-   4. Toggle `Access your data for sites in the *://postnl.nl domain`.
+1. Go to `about:debugging` (copy and paste this address in the address bar).
+2. Click on `This FireFox`.
+3. Click `Load Temporary Add-on..`. 
+4. Open te file `\ha-postnl-browser-extensions-main\firefox\background.js` from this repo.
+5. Follow the authentication steps in Home-Assistant
